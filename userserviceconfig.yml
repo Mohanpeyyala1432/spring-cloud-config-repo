@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: userserviceconfig
+
+custom:
+  message: "Hello from Spring Cloud Config"
